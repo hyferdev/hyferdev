@@ -15,8 +15,8 @@ Hi, my name is Desire. I’m a systems and network engineer who enjoys building 
 
 - 📫 How to contact me: ...
 
-	<a href="mailto:desire.banyeretse@hyfertechsolutions.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="24" height="24" style="vertical-align: bottom; margin-right: 6px;">
+  <a href="mailto:desire.banyeretse@hyfertechsolutions.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="24" height="24" style="vertical-align: bottom; margin-right: 6px;">
   <span style="font-size: 16px; color: inherit;">desire.banyeretse@hyfertechsolutions.com</span>
   </a>
   <br>
