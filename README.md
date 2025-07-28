@@ -29,6 +29,6 @@ Hi, my name is Desire. I’m a systems and network engineer who enjoys building 
         Modular infrastructures as code.
 	We need to automate systems and networks so they stop feeling like mysterious black boxes and start working with you, not against you. I build modular infrastructure that scales, stays reliable, and doesn’t need a decoder ring to manage. 
 
-![hyferdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyferdev&count_private=true&show_icons=true&theme=highcontrast)
+![hyferdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyferdev&count_private=true&show_icons=true&theme=dracula)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyferdev&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak is currently not available](https://streak-stats.demolab.com/?user=hyferdev&theme=git-dark)](https://git.io/streak-stats)
